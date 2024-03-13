@@ -2,12 +2,8 @@
 
 one:
   name: MyString
-  course: MyString
-  assignment: MyString
-  grade: 1
+  score: 1
 
 two:
   name: MyString
-  course: MyString
-  assignment: MyString
-  grade: 1
+  score: 1
